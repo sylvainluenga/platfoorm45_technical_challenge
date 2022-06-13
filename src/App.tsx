@@ -227,7 +227,7 @@ const LeftContent = styled.div`
 const RightContainer = styled.div<IProps>`
   background-color: ${({ section }) =>
     section === 0 ? COLORS.Tangerine : '#FFFFFF'};
-  height: 100vh;
+  min-height: 100vh;
   padding: 30px;
   @media ${device.laptop} {
     width: 60%;
