@@ -57,18 +57,17 @@ function App () {
               </Paragraph>
 
               <Paragraph font={300} size={23}>
-                pellentesque habitant morbi tristique senectus et netus et
-                malesuada fames ac turpis egestas. Vestibulum tortor quam,
-                feugiat vitae, ultricies eget, tempor sit amet, ante. <b style={{textDecoration:'underline'}}>View all days</b>
-                {' '}eu libero sit amet quam egestas semper. Aenean ultricies mi
-                vitae est. Mauris placerat eleifend leo. Quisque sit amet est et
-                sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum
-                sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum,
-                elit eget tincidunt condimentum, eros ipsum rutrum orci,
-                sagittis tempus lacus enim ac dui. Donec non enim in turpis
-                pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus
-                faucibus, tortor neque egestas augue, eu vulputate magna eros eu
-                erat. Aliquam erat
+                The people living in the disease are sad, old age and children, 
+                and they are hungry and ugly. The vestibulum tortor quam, feugiat 
+                vitae, needs ultricies, the time must be before.<b style={{textDecoration:'underline'}}>View all days free</b> 
+                {' '}football is more important than ever. Aenean is the enemy of my life. 
+                Mauris investrat eleifend leo. Everyone should be smart and wise 
+                with a quiver. It was a matter of taste, but, for the convenience of life, 
+                it is important to dress it up. Aenean ferment, elit needs tincidunt condiment, 
+                eros the very makeup of the orci, arrows time for lake and dui. Unfortunately, 
+                it is not easy in high school volleyball. To trigger It's a protein, 
+                it's not a good course, it's a tortor, it's not a good idea, 
+                it's eu vulputate magna eros eu. It was something
               </Paragraph>
             </div>
             </Animation.Slide>
